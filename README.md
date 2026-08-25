@@ -1,5 +1,7 @@
 # ReShadeLinux
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/U5R225QZH3)
+
 ![ReShadeLinux logo](packaging/appimage/AppDir/reshadelinux.png)
 
 **Install the official ReShade runtime for Wine and Proton games on Linux.**
